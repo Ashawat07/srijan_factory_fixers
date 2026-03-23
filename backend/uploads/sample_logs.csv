@@ -1,0 +1,40 @@
+machine_name,date,error_description,technician_notes,severity
+CNC Machine #4,2025-01-05,Unusual vibration detected in spindle bearing,Vibration level 4.2mm/s exceeds threshold of 2.5mm/s,High
+CNC Machine #4,2025-01-18,Bearing noise increasing during operation,Recommend immediate bearing inspection,Critical
+CNC Machine #4,2025-02-02,Temperature spike to 92 degrees in motor,Checked coolant - low level topped up,High
+CNC Machine #4,2025-02-15,Spindle bearing vibration still above threshold,Part BR-204 ordered not yet installed,Critical
+CNC Machine #4,2025-03-01,Machine stopped mid operation due to bearing failure,Emergency shutdown activated,Critical
+Hydraulic Press #2,2025-01-10,Oil pressure dropped from 180bar to 140bar,Seal showing wear - monitor closely,High
+Hydraulic Press #2,2025-01-28,Oil leak detected near cylinder seal,Seal replacement scheduled next week,Critical
+Hydraulic Press #2,2025-02-10,Pressure still unstable between 130-160bar,Temporary patch applied to seal,High
+Hydraulic Press #2,2025-02-20,Oil consumption increased by 30 percent,Full seal kit SK-88 replacement needed urgently,Critical
+Conveyor Belt B3,2025-01-15,Motor temperature rising to 78 degrees,Ambient temp high - added ventilation,Medium
+Conveyor Belt B3,2025-01-30,Belt tension inconsistent causing slippage,Adjusted tension roller - recheck in 7 days,Medium
+Conveyor Belt B3,2025-02-14,Motor temperature now reaching 85 degrees,Motor brush set MB-12 showing wear,High
+Conveyor Belt B3,2025-02-28,Belt misalignment detected on east side,Realigned belt - root cause under investigation,High
+Lathe Unit #7,2024-12-01,Scheduled overhaul skipped due to production pressure,Parts ordered but not arrived yet,High
+Lathe Unit #7,2024-12-20,Chuck jaws showing significant wear,Surface finish quality degrading on parts,Medium
+Lathe Unit #7,2025-01-10,Coolant pump making grinding noise,Coolant flow reduced by 20 percent,High
+Lathe Unit #7,2025-02-05,Overhaul now 65 days overdue,Risk of multiple component failures increasing,Critical
+Pump Station #1,2025-01-20,Routine inspection completed,All pressure and flow parameters normal,Low
+Pump Station #1,2025-02-15,Minor vibration noted in impeller,Within acceptable range - monitor next month,Low
+Pump Station #1,2025-03-01,Routine lubrication completed,Bearings and seals in good condition,Low
+Drill Press #9,2025-01-25,Routine lubrication and inspection done,No issues found all parameters normal,Low
+Drill Press #9,2025-02-18,Chuck key spring slightly worn,Non critical - replace at next scheduled service,Low
+Welding Robot #1,2025-01-08,Welding tip showing carbon buildup,Cleaned tip - performance restored,Medium
+Welding Robot #1,2025-01-22,Joint accuracy drifting by 0.3mm,Recalibrated arm position sensors,Medium
+Welding Robot #1,2025-02-10,Servo motor in arm joint 3 making clicking sound,Servo SV-301 may need replacement,High
+Welding Robot #1,2025-02-25,Arm joint 3 movement becoming jerky,Production quality affected - urgent repair needed,Critical
+Air Compressor #5,2025-01-12,Pressure relief valve triggered unexpectedly,Reset valve - investigating root cause,Medium
+Air Compressor #5,2025-01-28,Pressure cycling more frequent than normal,Filter element FE-55 needs replacement,Medium
+Air Compressor #5,2025-02-12,Oil separator showing signs of saturation,Separator efficiency dropped to 70 percent,High
+Air Compressor #5,2025-03-02,Compressor output pressure dropping,Multiple filter replacements needed immediately,High
+Forklift #3,2025-01-14,Battery charge holding time reduced by 25 percent,Battery cells degrading - monitor closely,Medium
+Forklift #3,2025-02-01,Hydraulic lift speed reduced,Hydraulic fluid level low - topped up,Medium
+Forklift #3,2025-02-20,Left front wheel bearing making noise,Bearing replacement BRG-F3 scheduled,High
+Packaging Machine #2,2025-01-18,Sealing temperature inconsistent,Heating element HE-22 showing resistance variation,Medium
+Packaging Machine #2,2025-02-05,Seal quality failing on 15 percent of packages,Heating element replacement urgent,High
+Packaging Machine #2,2025-02-22,Film feed roller tension dropping,Roller clutch RC-08 worn - replace immediately,High
+```
+
+---

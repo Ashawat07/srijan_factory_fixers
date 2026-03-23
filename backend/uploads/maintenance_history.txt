@@ -1,0 +1,53 @@
+
+MAINTENANCE HISTORY LOG - Q4 2024 TO Q1 2025
+Plant: Mumbai Manufacturing Unit 3
+
+--- CNC Machine #4 ---
+2024-10-15: Full bearing inspection. All bearings within tolerance. Lubricated.
+2024-11-20: Routine service. Coolant replaced. No issues found.
+2024-12-10: Vibration reading 1.8mm/s - within normal range.
+2025-01-05: Vibration reading 4.2mm/s - EXCEEDS threshold. Flagged for inspection.
+2025-01-18: CRITICAL - Bearing failure. Emergency shutdown. Part BR-204 ordered.
+Parts Used: Coolant 5L, Lubricant grease 200g
+Next Service Due: 2025-04-15
+
+--- Hydraulic Press #2 ---
+2024-10-20: Full hydraulic service. Seals inspected - minor wear noted.
+2024-11-15: Oil pressure test - 178bar normal.
+2024-12-18: Oil pressure 165bar - slight drop. Monitor recommended.
+2025-01-10: Oil pressure 140bar - WARNING. Seal wear increasing.
+2025-01-28: CRITICAL - Oil leak. Machine isolated. Seal kit SK-88 needed.
+Parts Used: Hydraulic oil 10L, Pressure gauge calibration
+Next Service Due: Immediate - awaiting seal kit
+
+--- Conveyor Belt B3 ---
+2024-11-01: Belt tension adjusted. Motor temperature normal at 65C.
+2024-12-15: Routine inspection. Belt wear within limits.
+2025-01-15: Motor temperature 78C - above normal. Ventilation added.
+2025-02-14: Motor temperature 85C - HIGH. Motor brush set MB-12 worn.
+Parts Used: Belt tension springs x2, Lubricant
+Next Service Due: Immediate - motor brush replacement
+
+--- Lathe Unit #7 ---
+2024-09-20: Full overhaul completed. All components replaced.
+2024-12-01: Scheduled overhaul DEFERRED - production pressure.
+2025-01-10: Coolant pump grinding. Overhaul now 42 days overdue.
+2025-02-05: Overhaul 65 days overdue. Multiple wear indicators critical.
+Parts Used: Coolant 3L
+Next Service Due: OVERDUE - immediate action required
+
+--- Pump Station #1 ---
+2024-10-10: Full service. Impeller inspected. All normal.
+2024-12-20: Routine check. Flow rate 95% of rated capacity. Normal.
+2025-01-20: Routine inspection. All parameters normal.
+2025-03-01: Lubrication completed. Bearings in good condition.
+Parts Used: Bearing grease 100g, Seal lubricant
+Next Service Due: 2025-06-01
+
+--- Welding Robot #1 ---
+2024-11-05: Full calibration. All joints within 0.1mm tolerance.
+2024-12-20: Joint 3 servo SV-301 showing 0.2mm drift. Noted.
+2025-01-22: Drift increased to 0.3mm. Recalibrated. Monitor weekly.
+2025-02-25: CRITICAL - Joint 3 servo failed. 120 units rejected.
+Parts Used: Calibration consumables
+Next Service Due: Immediate - servo SV-301 replacement

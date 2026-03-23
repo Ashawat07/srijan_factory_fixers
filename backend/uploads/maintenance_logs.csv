@@ -1,0 +1,97 @@
+date,machine_name,error_description,technician_notes,severity,parts_required,technician_assigned,maintenance_due_date,estimated_hours,status
+2025-01-01,Air Compressor #5,Abnormal cycling,Vijay Singh noted: abnormal cycling. Monitoring closely.,Medium,Oil separator,Vijay Singh,2025-01-15,1,Completed
+2025-01-04,Air Compressor #5,Filter saturation high,Amit Kumar noted: filter saturation high. Monitoring closely.,Low,Air filter,Amit Kumar,2025-01-18,1,Scheduled
+2025-01-04,Air Compressor #5,Filter saturation high,Sunita Rao noted: filter saturation high. Monitoring closely.,Medium,Pressure valve PV-22,Sunita Rao,2025-01-18,1,Pending
+2025-01-09,Air Compressor #5,Oil separator efficiency drop,Vijay Singh noted: oil separator efficiency drop. Monitoring closely.,Low,Pressure valve PV-22,Vijay Singh,2025-01-23,1,Scheduled
+2025-01-15,Air Compressor #5,Oil separator efficiency drop,Priya Patel noted: oil separator efficiency drop. Monitoring closely.,Low,Pressure valve PV-22,Priya Patel,2025-01-29,1,Pending
+2025-01-21,Air Compressor #5,Pressure relief valve triggered,Sunita Rao noted: pressure relief valve triggered. Monitoring closely.,High,Filter element FE-55,Sunita Rao,2025-01-28,2,Pending
+2025-01-26,Air Compressor #5,Output pressure dropping,Amit Kumar noted: output pressure dropping. Monitoring closely.,Low,Pressure valve PV-22,Amit Kumar,2025-02-09,1,Pending
+2025-02-05,Air Compressor #5,Oil separator efficiency drop,Vijay Singh noted: oil separator efficiency drop. Monitoring closely.,Medium,Air filter,Vijay Singh,2025-02-19,1,Pending
+2025-02-15,Air Compressor #5,Filter saturation high,Priya Patel noted: filter saturation high. Monitoring closely.,Medium,Filter element FE-55,Priya Patel,2025-03-01,1,Completed
+2025-02-19,Air Compressor #5,Abnormal cycling,Priya Patel noted: abnormal cycling. Monitoring closely.,Low,Pressure valve PV-22,Priya Patel,2025-03-05,1,Completed
+2025-03-18,Air Compressor #5,Output pressure dropping,Amit Kumar noted: output pressure dropping. Monitoring closely.,High,Pressure valve PV-22,Amit Kumar,2025-03-25,2,Pending
+2025-03-21,Air Compressor #5,Filter saturation high,Priya Patel noted: filter saturation high. Monitoring closely.,Low,Oil separator,Priya Patel,2025-04-04,1,Completed
+2025-01-01,CNC Machine #4,Motor temperature spike,Sunita Rao reported: motor temperature spike. Immediate attention required.,Critical,Anti-seize compound,Sunita Rao,2025-01-04,4,Pending
+2025-01-04,CNC Machine #4,Spindle bearing vibration exceeded threshold,Priya Patel noted: spindle bearing vibration exceeded threshold. Monitoring closely.,High,M12 hex bolts,Priya Patel,2025-01-11,2,Pending
+2025-01-11,CNC Machine #4,Motor temperature spike,Rahul Sharma reported: motor temperature spike. Immediate attention required.,Critical,Coolant 5L,Rahul Sharma,2025-01-14,4,Completed
+2025-01-18,CNC Machine #4,Spindle bearing vibration exceeded threshold,Vijay Singh reported: spindle bearing vibration exceeded threshold. Immediate attention required.,Critical,Bearing kit BR-204,Vijay Singh,2025-01-21,4,Pending
+2025-01-28,CNC Machine #4,Bearing noise during operation,Rahul Sharma reported: bearing noise during operation. Immediate attention required.,Critical,Bearing kit BR-204,Rahul Sharma,2025-01-31,4,Pending
+2025-02-15,CNC Machine #4,Bearing noise during operation,Vijay Singh noted: bearing noise during operation. Monitoring closely.,High,Anti-seize compound,Vijay Singh,2025-02-22,2,Completed
+2025-03-10,CNC Machine #4,Spindle bearing vibration exceeded threshold,Sunita Rao reported: spindle bearing vibration exceeded threshold. Immediate attention required.,Critical,Bearing kit BR-204,Sunita Rao,2025-03-13,4,Scheduled
+2025-03-15,CNC Machine #4,Motor temperature spike,Rahul Sharma noted: motor temperature spike. Monitoring closely.,High,Bearing kit BR-204,Rahul Sharma,2025-03-22,2,Scheduled
+2025-03-23,CNC Machine #4,Spindle bearing vibration exceeded threshold,Rahul Sharma noted: spindle bearing vibration exceeded threshold. Monitoring closely.,High,Anti-seize compound,Rahul Sharma,2025-03-30,2,Pending
+2025-03-23,CNC Machine #4,Bearing noise during operation,Priya Patel reported: bearing noise during operation. Immediate attention required.,Critical,Anti-seize compound,Priya Patel,2025-03-26,4,Pending
+2025-03-25,CNC Machine #4,Tool wear critical,Sunita Rao reported: tool wear critical. Immediate attention required.,Critical,M12 hex bolts,Sunita Rao,2025-03-28,4,Scheduled
+2025-03-27,CNC Machine #4,Bearing noise during operation,Rahul Sharma noted: bearing noise during operation. Monitoring closely.,High,M12 hex bolts,Rahul Sharma,2025-04-03,2,Pending
+2025-01-01,Conveyor Belt B3,Motor temperature rising,Rahul Sharma noted: motor temperature rising. Monitoring closely.,Low,Belt tension spring,Rahul Sharma,2025-01-15,1,Pending
+2025-01-03,Conveyor Belt B3,Motor temperature rising,Amit Kumar noted: motor temperature rising. Monitoring closely.,Low,Roller bearing,Amit Kumar,2025-01-17,1,Pending
+2025-01-28,Conveyor Belt B3,Roller slippage,Priya Patel noted: roller slippage. Monitoring closely.,Low,Drive belt,Priya Patel,2025-02-11,1,Completed
+2025-01-29,Conveyor Belt B3,Motor temperature rising,Amit Kumar noted: motor temperature rising. Monitoring closely.,Low,Motor brush set MB-12,Amit Kumar,2025-02-12,1,Pending
+2025-01-31,Conveyor Belt B3,Roller slippage,Rahul Sharma noted: roller slippage. Monitoring closely.,High,Motor brush set MB-12,Rahul Sharma,2025-02-07,2,Pending
+2025-02-12,Conveyor Belt B3,Motor temperature rising,Vijay Singh noted: motor temperature rising. Monitoring closely.,Medium,Belt tension spring,Vijay Singh,2025-02-26,1,Completed
+2025-02-21,Conveyor Belt B3,Belt misalignment detected,Sunita Rao noted: belt misalignment detected. Monitoring closely.,Low,Drive belt,Sunita Rao,2025-03-07,1,Pending
+2025-02-21,Conveyor Belt B3,Belt misalignment detected,Rahul Sharma noted: belt misalignment detected. Monitoring closely.,Low,Belt tension spring,Rahul Sharma,2025-03-07,1,Pending
+2025-02-22,Conveyor Belt B3,Belt tension inconsistent,Rahul Sharma noted: belt tension inconsistent. Monitoring closely.,High,Motor brush set MB-12,Rahul Sharma,2025-03-01,2,Scheduled
+2025-02-24,Conveyor Belt B3,Motor brush wear,Sunita Rao noted: motor brush wear. Monitoring closely.,Low,Motor brush set MB-12,Sunita Rao,2025-03-10,1,Pending
+2025-03-09,Conveyor Belt B3,Roller slippage,Sunita Rao noted: roller slippage. Monitoring closely.,Low,Belt tension spring,Sunita Rao,2025-03-23,1,Scheduled
+2025-03-10,Conveyor Belt B3,Belt tension inconsistent,Priya Patel noted: belt tension inconsistent. Monitoring closely.,Low,Drive belt,Priya Patel,2025-03-24,1,Scheduled
+2025-01-01,Drill Press #9,Normal operation check,Amit Kumar noted: normal operation check. Monitoring closely.,High,Column bearing,Amit Kumar,2025-01-08,2,Pending
+2025-02-01,Drill Press #9,Normal operation check,Vijay Singh noted: normal operation check. Monitoring closely.,Low,Column bearing,Vijay Singh,2025-02-15,1,Scheduled
+2025-02-10,Drill Press #9,Spindle lubricated,Rahul Sharma noted: spindle lubricated. Monitoring closely.,Low,Drive belt,Rahul Sharma,2025-02-24,1,Pending
+2025-02-12,Drill Press #9,Spindle lubricated,Sunita Rao noted: spindle lubricated. Monitoring closely.,Low,Column bearing,Sunita Rao,2025-02-26,1,Pending
+2025-02-19,Drill Press #9,Chuck key spring worn,Priya Patel noted: chuck key spring worn. Monitoring closely.,High,Chuck key spring,Priya Patel,2025-02-26,2,Completed
+2025-02-19,Drill Press #9,Normal operation check,Sunita Rao noted: normal operation check. Monitoring closely.,High,Drive belt,Sunita Rao,2025-02-26,2,Pending
+2025-02-23,Drill Press #9,Belt tension adjusted,Vijay Singh noted: belt tension adjusted. Monitoring closely.,High,Chuck key spring,Vijay Singh,2025-03-02,2,Completed
+2025-02-26,Drill Press #9,Routine lubrication done,Amit Kumar noted: routine lubrication done. Monitoring closely.,Medium,Drive belt,Amit Kumar,2025-03-12,1,Scheduled
+2025-03-04,Drill Press #9,Chuck key spring worn,Amit Kumar noted: chuck key spring worn. Monitoring closely.,High,Column bearing,Amit Kumar,2025-03-11,2,Pending
+2025-03-12,Drill Press #9,Belt tension adjusted,Priya Patel noted: belt tension adjusted. Monitoring closely.,High,Column bearing,Priya Patel,2025-03-19,2,Scheduled
+2025-03-21,Drill Press #9,Spindle lubricated,Rahul Sharma noted: spindle lubricated. Monitoring closely.,Low,Column bearing,Rahul Sharma,2025-04-04,1,Pending
+2025-03-24,Drill Press #9,Belt tension adjusted,Priya Patel noted: belt tension adjusted. Monitoring closely.,Low,Column bearing,Priya Patel,2025-04-07,1,Pending
+2025-01-15,Hydraulic Press #2,Cylinder seal oil leak,Priya Patel noted: cylinder seal oil leak. Monitoring closely.,High,O-ring set,Priya Patel,2025-01-22,2,Completed
+2025-01-21,Hydraulic Press #2,Seal kit worn,Vijay Singh reported: seal kit worn. Immediate attention required.,Critical,Seal kit SK-88,Vijay Singh,2025-01-24,4,Completed
+2025-01-28,Hydraulic Press #2,Seal kit worn,Amit Kumar reported: seal kit worn. Immediate attention required.,Critical,Hydraulic oil 10L,Amit Kumar,2025-01-31,4,Completed
+2025-01-29,Hydraulic Press #2,Cylinder seal oil leak,Vijay Singh noted: cylinder seal oil leak. Monitoring closely.,High,O-ring set,Vijay Singh,2025-02-05,2,Pending
+2025-01-30,Hydraulic Press #2,Oil pressure dropped,Amit Kumar reported: oil pressure dropped. Immediate attention required.,Critical,O-ring set,Amit Kumar,2025-02-02,4,Pending
+2025-02-18,Hydraulic Press #2,Seal kit worn,Sunita Rao noted: seal kit worn. Monitoring closely.,High,Pressure gauge,Sunita Rao,2025-02-25,2,Pending
+2025-02-25,Hydraulic Press #2,Cylinder seal oil leak,Sunita Rao reported: cylinder seal oil leak. Immediate attention required.,Critical,Seal kit SK-88,Sunita Rao,2025-02-28,4,Pending
+2025-03-01,Hydraulic Press #2,Oil consumption increased,Amit Kumar reported: oil consumption increased. Immediate attention required.,Critical,Hydraulic oil 10L,Amit Kumar,2025-03-04,4,Pending
+2025-03-06,Hydraulic Press #2,Oil pressure dropped,Amit Kumar noted: oil pressure dropped. Monitoring closely.,High,Hydraulic oil 10L,Amit Kumar,2025-03-13,2,Scheduled
+2025-03-13,Hydraulic Press #2,Seal kit worn,Amit Kumar reported: seal kit worn. Immediate attention required.,Critical,O-ring set,Amit Kumar,2025-03-16,4,Scheduled
+2025-03-24,Hydraulic Press #2,Oil consumption increased,Priya Patel noted: oil consumption increased. Monitoring closely.,High,Pressure gauge,Priya Patel,2025-03-31,2,Pending
+2025-03-29,Hydraulic Press #2,Seal kit worn,Amit Kumar noted: seal kit worn. Monitoring closely.,High,Pressure gauge,Amit Kumar,2025-04-05,2,Scheduled
+2025-01-07,Lathe Unit #7,Spindle runout increased,Sunita Rao noted: spindle runout increased. Monitoring closely.,High,Chuck jaws set,Sunita Rao,2025-01-14,2,Pending
+2025-01-16,Lathe Unit #7,Spindle runout increased,Priya Patel noted: spindle runout increased. Monitoring closely.,High,Overhaul kit OV-7,Priya Patel,2025-01-23,2,Completed
+2025-01-22,Lathe Unit #7,Surface finish quality drop,Rahul Sharma reported: surface finish quality drop. Immediate attention required.,Critical,Spindle bearing,Rahul Sharma,2025-01-25,4,Completed
+2025-01-24,Lathe Unit #7,Overhaul overdue,Vijay Singh noted: overhaul overdue. Monitoring closely.,High,Overhaul kit OV-7,Vijay Singh,2025-01-31,2,Completed
+2025-02-06,Lathe Unit #7,Surface finish quality drop,Vijay Singh noted: surface finish quality drop. Monitoring closely.,High,Spindle bearing,Vijay Singh,2025-02-13,2,Pending
+2025-02-07,Lathe Unit #7,Chuck jaws worn,Rahul Sharma reported: chuck jaws worn. Immediate attention required.,Critical,Overhaul kit OV-7,Rahul Sharma,2025-02-10,4,Pending
+2025-02-22,Lathe Unit #7,Surface finish quality drop,Sunita Rao reported: surface finish quality drop. Immediate attention required.,Critical,Chuck jaws set,Sunita Rao,2025-02-25,4,Pending
+2025-03-01,Lathe Unit #7,Chuck jaws worn,Rahul Sharma noted: chuck jaws worn. Monitoring closely.,High,Spindle bearing,Rahul Sharma,2025-03-08,2,Pending
+2025-03-10,Lathe Unit #7,Surface finish quality drop,Priya Patel noted: surface finish quality drop. Monitoring closely.,High,Spindle bearing,Priya Patel,2025-03-17,2,Scheduled
+2025-03-25,Lathe Unit #7,Spindle runout increased,Rahul Sharma noted: spindle runout increased. Monitoring closely.,High,Overhaul kit OV-7,Rahul Sharma,2025-04-01,2,Pending
+2025-03-26,Lathe Unit #7,Spindle runout increased,Vijay Singh reported: spindle runout increased. Immediate attention required.,Critical,Coolant pump seal,Vijay Singh,2025-03-29,4,Pending
+2025-03-27,Lathe Unit #7,Coolant pump grinding noise,Priya Patel reported: coolant pump grinding noise. Immediate attention required.,Critical,Coolant pump seal,Priya Patel,2025-03-30,4,Pending
+2025-01-06,Pump Station #1,Minor impeller vibration,Sunita Rao noted: minor impeller vibration. Monitoring closely.,High,Bearing grease 100g,Sunita Rao,2025-01-13,2,Completed
+2025-01-23,Pump Station #1,Normal operation,Sunita Rao noted: normal operation. Monitoring closely.,Low,Bearing grease 100g,Sunita Rao,2025-02-06,1,Pending
+2025-02-01,Pump Station #1,Minor impeller vibration,Rahul Sharma noted: minor impeller vibration. Monitoring closely.,High,Bearing grease 100g,Rahul Sharma,2025-02-08,2,Pending
+2025-02-06,Pump Station #1,Minor impeller vibration,Sunita Rao noted: minor impeller vibration. Monitoring closely.,High,Impeller seal,Sunita Rao,2025-02-13,2,Completed
+2025-02-06,Pump Station #1,Normal operation,Vijay Singh noted: normal operation. Monitoring closely.,Low,Impeller seal,Vijay Singh,2025-02-20,1,Pending
+2025-02-26,Pump Station #1,Minor impeller vibration,Vijay Singh noted: minor impeller vibration. Monitoring closely.,Low,Filter cartridge,Vijay Singh,2025-03-12,1,Pending
+2025-02-28,Pump Station #1,Minor impeller vibration,Sunita Rao noted: minor impeller vibration. Monitoring closely.,High,Impeller seal,Sunita Rao,2025-03-07,2,Completed
+2025-03-06,Pump Station #1,Flow rate slightly reduced,Sunita Rao noted: flow rate slightly reduced. Monitoring closely.,High,Impeller seal,Sunita Rao,2025-03-13,2,Scheduled
+2025-03-12,Pump Station #1,Minor impeller vibration,Priya Patel noted: minor impeller vibration. Monitoring closely.,High,Filter cartridge,Priya Patel,2025-03-19,2,Pending
+2025-03-20,Pump Station #1,Normal operation,Amit Kumar noted: normal operation. Monitoring closely.,Low,Filter cartridge,Amit Kumar,2025-04-03,1,Scheduled
+2025-03-22,Pump Station #1,Normal operation,Priya Patel noted: normal operation. Monitoring closely.,High,Filter cartridge,Priya Patel,2025-03-29,2,Completed
+2025-03-28,Pump Station #1,Flow rate slightly reduced,Priya Patel noted: flow rate slightly reduced. Monitoring closely.,Low,Seal lubricant,Priya Patel,2025-04-11,1,Pending
+2025-01-01,Welding Robot #1,Carbon buildup on tip,Priya Patel noted: carbon buildup on tip. Monitoring closely.,High,Calibration kit,Priya Patel,2025-01-08,2,Completed
+2025-01-15,Welding Robot #1,Joint accuracy drifting,Vijay Singh reported: joint accuracy drifting. Immediate attention required.,Critical,Welding tip set,Vijay Singh,2025-01-18,4,Scheduled
+2025-02-02,Welding Robot #1,Joint accuracy drifting,Rahul Sharma reported: joint accuracy drifting. Immediate attention required.,Critical,Joint bearing,Rahul Sharma,2025-02-05,4,Pending
+2025-02-17,Welding Robot #1,Carbon buildup on tip,Priya Patel reported: carbon buildup on tip. Immediate attention required.,Critical,Joint bearing,Priya Patel,2025-02-20,4,Pending
+2025-02-25,Welding Robot #1,Servo motor clicking sound,Rahul Sharma reported: servo motor clicking sound. Immediate attention required.,Critical,Calibration kit,Rahul Sharma,2025-02-28,4,Pending
+2025-02-28,Welding Robot #1,Calibration failed,Vijay Singh noted: calibration failed. Monitoring closely.,High,Servo motor SV-301,Vijay Singh,2025-03-07,2,Pending
+2025-03-06,Welding Robot #1,Carbon buildup on tip,Priya Patel noted: carbon buildup on tip. Monitoring closely.,High,Calibration kit,Priya Patel,2025-03-13,2,Pending
+2025-03-12,Welding Robot #1,Arm movement jerky,Vijay Singh noted: arm movement jerky. Monitoring closely.,High,Servo motor SV-301,Vijay Singh,2025-03-19,2,Pending
+2025-03-19,Welding Robot #1,Servo motor clicking sound,Amit Kumar reported: servo motor clicking sound. Immediate attention required.,Critical,Welding tip set,Amit Kumar,2025-03-22,4,Completed
+2025-03-27,Welding Robot #1,Carbon buildup on tip,Sunita Rao noted: carbon buildup on tip. Monitoring closely.,High,Calibration kit,Sunita Rao,2025-04-03,2,Pending
+2025-03-27,Welding Robot #1,Calibration failed,Amit Kumar noted: calibration failed. Monitoring closely.,High,Servo motor SV-301,Amit Kumar,2025-04-03,2,Scheduled
+2025-03-30,Welding Robot #1,Servo motor clicking sound,Vijay Singh reported: servo motor clicking sound. Immediate attention required.,Critical,Servo motor SV-301,Vijay Singh,2025-04-02,4,Pending

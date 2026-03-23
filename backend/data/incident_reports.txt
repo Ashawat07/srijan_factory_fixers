@@ -1,0 +1,38 @@
+INCIDENT REPORT - JANUARY 2025
+Plant: Mumbai Manufacturing Unit 3
+Report Date: 2025-01-31
+
+INCIDENT 001 - CNC Machine #4
+Date: 2025-01-18
+Severity: CRITICAL
+Description: Unexpected machine stoppage due to spindle bearing overheating. Production line halted for 4 hours.
+Root Cause: Delayed bearing replacement. Vibration warnings were logged on 2025-01-05 but maintenance was deferred.
+Action Taken: Emergency lubrication applied. Bearing replacement BR-204 ordered on priority.
+Estimated Downtime Cost: Rs 85,000
+Recommendation: Immediate bearing replacement. Do not defer critical maintenance beyond 7 days.
+
+INCIDENT 002 - Hydraulic Press #2
+Date: 2025-01-28
+Severity: CRITICAL
+Description: Oil leak from cylinder seal causing production floor safety hazard.
+Root Cause: Seal kit SK-88 was flagged for replacement in December 2024 but not actioned.
+Action Taken: Machine isolated. Temporary patch applied. Full seal kit replacement scheduled.
+Estimated Downtime Cost: Rs 62,000
+Recommendation: Replace seal kit SK-88 immediately. Implement weekly oil pressure checks.
+
+INCIDENT 003 - Welding Robot #1
+Date: 2025-02-25
+Severity: HIGH
+Description: Weld joint accuracy failed quality inspection. 120 units rejected.
+Root Cause: Servo motor SV-301 in joint 3 degraded beyond tolerance threshold.
+Action Taken: Manual welding backup initiated. Robot taken offline for repair.
+Estimated Downtime Cost: Rs 1,20,000 including rejected units
+Recommendation: Replace servo SV-301. Schedule monthly calibration checks for all robot joints.
+
+MONTHLY SUMMARY:
+Total Incidents: 3
+Total Estimated Loss: Rs 2,67,000
+Critical Failures: 2
+High Priority: 1
+Most At-Risk Equipment: CNC Machine #4, Hydraulic Press #2, Welding Robot #1
+```
